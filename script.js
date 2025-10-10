@@ -13,14 +13,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Desenvolvedor Front-End", "Enxadrista", "Eletromecânico"],
+        strings: ["Iniciante em Cibersegurança", "Enxadrista", "Técnico em Elétrica"],
         typeSpeed: 70,
         backSpeed: 30,
         loop: true
     })
 
     var typed = new Typed(".typing2", {
-        strings: ["Desenvolvedor Front-End", "Enxadrista", "Eletromecânico"],
+        strings: ["Iniciante em Cibersegurança", "Enxadrista", "Técnico em Elétrica"],
         typeSpeed: 70,
         backSpeed: 30,
         loop: true
