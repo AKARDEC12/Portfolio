@@ -126,8 +126,12 @@ html{
 
 .conteudo-home .coluna-direita{
     width: 45%;
+    
 }
 
+.conteudo-home .coluna-direita img{
+    width: 100%;
+}
 
 .home .container{
     margin: auto 0 0 500px;
