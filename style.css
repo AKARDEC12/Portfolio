@@ -644,6 +644,10 @@ footer{
     .home .container img{
         width: 700px;
     }
+
+    .home .coluna-direita img{
+        width: 100%;
+    }
 }
 
 @media (max-width: 1425px){
@@ -653,6 +657,10 @@ footer{
 
     .home .container img{
         width: 600px;
+    }
+
+    .home .coluna-direita img{
+        width: 95%
     }
 }
 
